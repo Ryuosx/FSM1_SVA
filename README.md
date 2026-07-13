@@ -389,6 +389,5 @@ run -all
 
 ## Author
 
-**Raj**  
-B.Tech Electronics & Communication Engineering  
-Digital Design & Verification | SystemVerilog | UVM | RTL Verification
+**Raj Pandey**  
+
