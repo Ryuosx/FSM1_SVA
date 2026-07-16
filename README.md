@@ -387,7 +387,4 @@ run -all
 
 ---
 
-## Author
-
-**Raj Pandey**  
 
